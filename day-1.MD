@@ -1,7 +1,5 @@
 # DevOps
 
-# DAY-1
-
 ## What is DevOps??
 DevOps - development + operations
 
@@ -9,10 +7,10 @@ DevOps - development + operations
 Laptop/Desktop/Mobile/server is nothing but computing device
 
 let's say when we are  purchasing computer/mobile what are the things that we check
-	Processor
-	RAM
-	Storage
-	OS
+*	Processor
+*	RAM
+*	Storage
+*	OS
 We can call this as computer/mobile.
 
 Where it comes to server which includes the same but it's seems like black screen, 
