@@ -4,14 +4,14 @@
 # what is computer??
 * Laptop/Desktop/Mobile/server is nothing but computing device
 
-# let's say when we are  purchasing computer/mobile what are the things that we check
+## let's say when we are  purchasing computer/mobile what are the things that we check
 	* Processor
 	* RAM
 	* Storage
 *	OS
 We can call this as computer/mobile.
 
-Where it comes to server which includes the same but it's seems like black screen, 
+** Where it comes to server which includes the same but it's seems like black screen, 
 only text but there is no graphics. where it comes to windows user interface everyting 
 is graphics.
 
