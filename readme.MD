@@ -1,17 +1,19 @@
-# what is DevOps??
-* DevOps - development + operations 
+# DevOps
 
-# what is computer??
-* Laptop/Desktop/Mobile/server is nothing but computing device
+## What is DevOps??
+DevOps - development + operations
 
-## let's say when we are  purchasing computer/mobile what are the things that we check
-	* Processor
-	* RAM
-	* Storage
-*	OS
+## What is computer??
+Laptop/Desktop/Mobile/server is nothing but computing device
+
+let's say when we are  purchasing computer/mobile what are the things that we check
+	Processor
+	RAM
+	Storage
+	OS
 We can call this as computer/mobile.
 
-** Where it comes to server which includes the same but it's seems like black screen, 
+Where it comes to server which includes the same but it's seems like black screen, 
 only text but there is no graphics. where it comes to windows user interface everyting 
 is graphics.
 
@@ -30,7 +32,7 @@ why we are preferring servers??
 if we use graphics = more memory + more power + more time
 where it comes to  server = less memory + less power + less time + less cost
 
-Client and Server architecture:
+## Client and Server architecture:
 -------------------------------
 In our internet world, everythig is computer right
 
@@ -52,13 +54,13 @@ In this case mobile is server
 			 computer is client
 			 
 
-let's we discuss a small concept:
+## let's we discuss a small concept:
 ---------------------------------
 stackholders --> who are the part of system
 if we consider school which inclues students, parents and teachers.
 and the target is ideally 100% studnts should get pass
 
-50 years back:
+### 50 years back:
 ---------------
 only one final exam in a year
 
@@ -68,7 +70,7 @@ parents = they always worried about their children from day-1
 
 pass percent was very less
 
-30 years back:
+### 30 years back:
 --------------
 started conducting unit test-1, unit test-2, unit test-3, 
 half yearly, unit test-4, grand test, final test.
@@ -86,7 +88,7 @@ unt test-2 -> 50%
 unit test-3 -> 75%
 Final exam -> 90% 
 
-20 years back:
+### 20 years back:
 --------------
 daily slip tests
 
@@ -104,7 +106,7 @@ this is process improvement.
 Take example as whatsapp, facebook.
 from 2012 to till now, see the process improvement.
 
-SDLC -> software development life cycle
+## SDLC -> software development life cycle
 1. Requirements gathering -> what customers wants
 2. planning
 3. Analysis -> Analyse the requirements
@@ -115,21 +117,21 @@ SDLC -> software development life cycle
 8. maintenence
 
 
-waterfall model -> water is falling down
+### waterfall model -> water is falling down
 
 Once requirements are fixed we can't change
 
 if we take house as example, construction is over but tesing is failed and the 
 output is not as per design. we have to demolish the house and start again
 
-disadavantages:
+**disadavantages:**
 ===============
 it can't accomidate new requirements
 final product output is only at the end
 
 In IT stakeholders are developers, testing team, clients.
 
-waterfall model(IT):
+### waterfall model(IT):
 =====================
 students = developers
 teachers = testing team
@@ -169,7 +171,7 @@ but clients expets ferrari but they will get maruthi-800.
 
 to over come this we got agile
 
-Agile:
+## Agile:
 ======
 Final product -> multiple modules -> each sprint we ahve one module
 start with small things --> keep short goals
@@ -184,7 +186,7 @@ shipping
 
 sprints and modules
 
-sprint-1 may be for 1 month:
+### sprint-1 may be for 1 month:
 -----------------------------
 sign up and login
 
@@ -203,13 +205,13 @@ where we have daily standup calls
 2. what are you going to do today,
 3. Are you facing any problems
 
-sprint-2:
+### sprint-2:
 ---------
 product catalouge
 
 along with product catalouge we have to work on sign up and login
 
-sprint-final:
+### sprint-final:
 -------------
 if client expect ferrari at least they will get Honda city
 
@@ -224,7 +226,7 @@ but we need 100% solution right!!
 
 In the same agile methodology process improvement has changed.
 
-sprint-1 = process improvement:
+### sprint-1 = process improvement:
 -------------------------------
 day-1 he developed a code for Enter your fist name 
 day-1 ask this testing team to test this small code
@@ -245,7 +247,7 @@ if suppose they are 3 valid defects they will communicate in daily life
 previosly what code they wrote they might be chances to forgot and when we are seeing 
 invaid defects will some type of negative feeling.
 
-DevOps: 
+## DevOps: 
 => DevOps is a kind of agile methodology like it is the combination of 
    many tools and technologies and if the developed code is built, deploy and tested 
    on the same day is called devops.
@@ -255,10 +257,10 @@ DevOps:
 	1. Faster releases to the market(Speed)
 	2. Less defects (Accuracy)
 	
-	Advantage of devops:
-	---------------------
-	we improve the communication between developers and testers and thier effeciency 
-	become more. there are no fights between teams. the product delevery is 100% accurate.
+**Advantage of devops:**
+---------------------
+we improve the communication between developers and testers and thier effeciency 
+become more. there are no fights between teams. the product delevery is 100% accurate.
 	
 long ago if we go to banks frequently they are telling 
 like servers got down and under maintenance but now a days which is not much. 
