@@ -11,6 +11,7 @@ let's say when we are  purchasing computer/mobile what are the things that we ch
 *	RAM
 *	Storage
 *	OS
+
 We can call this as computer/mobile.
 
 Where it comes to server which includes the same but it's seems like black screen, 
