@@ -121,14 +121,12 @@ if we take house as example, construction is over but tesing is failed and the
 output is not as per design. we have to demolish the house and start again
 
 **disadavantages:**
-===============
 it can't accomidate new requirements
 final product output is only at the end
 
 In IT stakeholders are developers, testing team, clients.
 
 ### waterfall model(IT):
-=====================
 students = developers
 teachers = testing team
 parents = clients
@@ -168,7 +166,6 @@ but clients expets ferrari but they will get maruthi-800.
 to over come this we got agile
 
 ## Agile:
-======
 Final product -> multiple modules -> each sprint we ahve one module
 start with small things --> keep short goals
 
