@@ -33,7 +33,6 @@ if we use graphics = more memory + more power + more time
 where it comes to  server = less memory + less power + less time + less cost
 
 ## Client and Server architecture:
--------------------------------
 In our internet world, everythig is computer right
 
 let's say we have lawyer, we are clients for him
@@ -55,13 +54,11 @@ In this case mobile is server
 			 
 
 ## let's we discuss a small concept:
----------------------------------
 stackholders --> who are the part of system
 if we consider school which inclues students, parents and teachers.
 and the target is ideally 100% studnts should get pass
 
 ### 50 years back:
----------------
 only one final exam in a year
 
 student = will not study from day-1
@@ -71,7 +68,6 @@ parents = they always worried about their children from day-1
 pass percent was very less
 
 ### 30 years back:
---------------
 started conducting unit test-1, unit test-2, unit test-3, 
 half yearly, unit test-4, grand test, final test.
 
@@ -89,7 +85,6 @@ unit test-3 -> 75%
 Final exam -> 90% 
 
 ### 20 years back:
---------------
 daily slip tests
 
 day-1 -> teachers teach something from day-1
@@ -187,7 +182,6 @@ shipping
 sprints and modules
 
 ### sprint-1 may be for 1 month:
------------------------------
 sign up and login
 
 developers = they start from day-1 = 10 days for development
@@ -206,13 +200,11 @@ where we have daily standup calls
 3. Are you facing any problems
 
 ### sprint-2:
----------
 product catalouge
 
 along with product catalouge we have to work on sign up and login
 
 ### sprint-final:
--------------
 if client expect ferrari at least they will get Honda city
 
 
@@ -227,7 +219,6 @@ but we need 100% solution right!!
 In the same agile methodology process improvement has changed.
 
 ### sprint-1 = process improvement:
--------------------------------
 day-1 he developed a code for Enter your fist name 
 day-1 ask this testing team to test this small code
 
@@ -258,7 +249,6 @@ invaid defects will some type of negative feeling.
 	2. Less defects (Accuracy)
 	
 **Advantage of devops:**
----------------------
 we improve the communication between developers and testers and thier effeciency 
 become more. there are no fights between teams. the product delevery is 100% accurate.
 	
