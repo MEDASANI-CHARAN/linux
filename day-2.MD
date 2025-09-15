@@ -229,6 +229,7 @@ once you launch the instance open the gitbash terminal
 
 ```bash
 ssh -i <private-key> <user-name>@IP
+```
 
 -> you can able to login into server  
 
