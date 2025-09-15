@@ -133,33 +133,29 @@ once you opened follow below steps to create public key and private key
 ssh-keygen -t rsa -b 4096 -f <file-name>
 # or
 ssh-keygen -f <file-name>
+```
 
 it will generate public key and private key
 
-Create EC2:
+## Create EC2:
 
 EC2 dashboard -> click on lauch instance
 
 Name
-
 select AMI
-
 Instance type
-
 create/import key in AWS account
-
 Firewall/security group creation
-
 launch instance
 
-create/import key in AWS account:
+### create/import key in AWS account:
 
 Login to AWS account console
 EC2 dashboard -> network security -> key pair
 click on actions
 import public key pair
 
-Firewall/security group creation:
+### Firewall/security group creation:
 
 Login to AWS account console
 EC2 dashboard -> network security -> security groups
@@ -168,13 +164,9 @@ create security group -> Basic details -> Security group name -> Description
 Select Inbound rule : click on add rule
 
 Type
-
 Protocol
-
 Port range
-
 Source
-
 Destination
 
 where you select anywhere ipv4 i.e., 0.0.0.0/0 which means internet, open for everyone
@@ -184,42 +176,34 @@ my ip i.e., <ip-address>, it will open for your home only
 Select Outbound rule : click on add rule
 
 Type
-
 Protocol
-
 Port range
-
 Source
-
 Destination
 
 where you select anywhere ipv4 i.e., 0.0.0.0/0 which means internet, open for everyone
 or
 my ip i.e., <ip-address>, it will open for your home only
 
-Total Ports
+## Total Ports
 
 Total we have 65,536 ports available in system i.e., 0-65,535
 
-Lets take real time example:
+## Lets take real time example:
 
 i am sending a post from bangalore to Hyderabad
 
 in adress we have flat no, apartment name, street, city, pincode
 
 if i give only pincode it will reach to that city it will struck there
-
 if i give street name it will reach to that street it will struck there
-
 if i give apartment name it will reach to that apartment it will struck there
-
 if i didn't mention flat no or owner name it will struck in apartment only
 
 same way in system so many process are running, every process will open one port number..
 
 for example if i give
-
-https://facebook.com:443
+`https://facebook.com:443`
 
 
 which means there is a https process running inside facebook server on port number 443
@@ -239,13 +223,13 @@ they open 443 port for public
 
 they open 22 port for admin staff
 
-Connect to EC2
+## Connect to EC2
 
 once you launch the instance open the gitbash terminal
 
+```bash
 ssh -i <private-key> <user-name>@IP
 
+-> you can able to login into server  
 
--> you can able to login into server
-
-and also you can use putty, super putty, mobaxtream software to launch the servers
+and also you can use putty, super putty, mobaxtream software to launch the servers  
